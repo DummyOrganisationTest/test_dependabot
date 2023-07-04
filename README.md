@@ -1,5 +1,7 @@
 # dummy-application
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+
 * A demo app with with CVE, https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34239 to simulate dependabot will update only seucurity after following recomendations from this article, https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates
 
 * Other configurations like scorecard action
